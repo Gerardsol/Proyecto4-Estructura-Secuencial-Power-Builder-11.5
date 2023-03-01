@@ -1,0 +1,11 @@
+integer  num1,num2, suma 
+
+num1= integer(sle_1.text)
+num2= integer(sle_2.text)          //inicio
+
+
+suma= num1 + num2      //proceso
+
+
+
+sle_3.text= string(suma)  //salida 
